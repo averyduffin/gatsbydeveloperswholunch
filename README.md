@@ -1,2 +1,0 @@
-# gatsbydeveloperswholunch
-developer Blog
